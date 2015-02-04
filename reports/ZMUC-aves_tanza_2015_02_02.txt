@@ -1,0 +1,56 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 61
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Cyprus ; Times: 3
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-03 ; Times: 4
+	Date: 2015-01-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "egretta ardesiaca" ; Times: 4
+	Query: "smithornis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 445 download events in this period)
+Total number of records downloaded: 1056 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1056
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pycnonotidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 63
+Total number of records retrieved from searches: 907
+Number of download events that retrieved data from the resource: 1
+Total number of records downloaded: 1056
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 70
+Total number of records retrieved from searches: 968
+Number of download events that retrieved data from the resource: 9
+Total number of records downloaded: 1495
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
