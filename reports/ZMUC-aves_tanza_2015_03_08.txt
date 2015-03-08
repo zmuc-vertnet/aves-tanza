@@ -1,0 +1,84 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 167
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Sweden ; Times: 2
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-10 ; Times: 3
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-22 ; Times: 2
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Apalis argentea" ; Times: 1
+	Query: "apalis argentea" ; Times: 1
+	Query: "Ptilopsis granti" ; Times: 2
+	Query: "pachyphantes" ; Times: 1
+	Query: "Numenius arquata" ; Times: 1
+	Query: "Caprimulgus europaeus" ; Times: 1
+	Query: "Salpornis" ; Times: 1
+	Query: "Coracias garrulus" ; Times: 1
+	Query: "Bostrychia hagedash tanzania" ; Times: 1
+	Query: "Ptilopsis" ; Times: 1
+	Query: "Bubo africanus" ; Times: 2
+	Query: "institutioncode:zmuc Psittacidae" ; Times: 3
+	Query: "Turnix sylvatica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 326 download events in this period)
+Total number of records downloaded: 150 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 150
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bubo africanus" ; Times: 1
+	Query: "Turnix sylvatica" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 80
+Total number of records retrieved from searches: 1074
+Number of download events that retrieved data from the resource: 4
+Total number of records downloaded: 1206
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 87
+Total number of records retrieved from searches: 1135
+Number of download events that retrieved data from the resource: 12
+Total number of records downloaded: 1645
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
