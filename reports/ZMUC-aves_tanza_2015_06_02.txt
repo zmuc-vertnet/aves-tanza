@@ -1,0 +1,67 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 114
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 5
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "103178" ; Times: 1
+	Query: "specificepithet:ferruginea genus:calidris" ; Times: 1
+	Query: "KU 140410" ; Times: 2
+	Query: "salpornis" ; Times: 1
+	Query: "pterocles exustus" ; Times: 3
+	Query: "poicephalus gonads" ; Times: 3
+	Query: "institutioncode:zmuc Psittacidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 976 download events in this period)
+Total number of records downloaded: 1 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tyto alba" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 110
+Total number of records retrieved from searches: 1470
+Number of download events that retrieved data from the resource: 6
+Total number of records downloaded: 1252
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 117
+Total number of records retrieved from searches: 1531
+Number of download events that retrieved data from the resource: 14
+Total number of records downloaded: 1691
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
