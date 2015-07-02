@@ -1,0 +1,106 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 257
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-03 ; Times: 3
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-07 ; Times: 5
+	Date: 2015-06-08 ; Times: 3
+	Date: 2015-06-13 ; Times: 3
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 5
+	Date: 2015-06-19 ; Times: 5
+	Date: 2015-06-21 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-28 ; Times: 3
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "guttera" ; Times: 1
+	Query: "Campethera mombassica" ; Times: 1
+	Query: "Cercomela familiaris" ; Times: 2
+	Query: "Numida meleagris reichenowi" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 6
+	Query: "Merops hirundineus" ; Times: 1
+	Query: "Vidua macroura" ; Times: 1
+	Query: "zmuc coqui" ; Times: 3
+	Query: "Campethera scriptoricauda" ; Times: 1
+	Query: "134776" ; Times: 1
+	Query: "Acryllium vulturinum" ; Times: 2
+	Query: "KU 100627" ; Times: 2
+	Query: "pternistis ku" ; Times: 1
+	Query: "Phyllastrephus cerviniventris" ; Times: 1
+	Query: "merops KU" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 1
+	Query: "campethera mombassica type:specimen" ; Times: 1
+	Query: "amandava amandava" ; Times: 2
+	Query: "129469" ; Times: 1
+	Query: "Poicephalus gonads" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Jynx" ; Times: 1
+	Query: "KU 101449" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1524 download events in this period)
+Total number of records downloaded: 133 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 133
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:nectariniidae AND skeleton type:specimen" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: "Phyllastrephus cerviniventris" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 1
+	Query: "Cercomela familiaris" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "Poicephalus gonads" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 147
+Total number of records retrieved from searches: 1727
+Number of download events that retrieved data from the resource: 13
+Total number of records downloaded: 1385
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 154
+Total number of records retrieved from searches: 1788
+Number of download events that retrieved data from the resource: 21
+Total number of records downloaded: 1824
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
