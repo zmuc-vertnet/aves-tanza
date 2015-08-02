@@ -1,0 +1,80 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 65
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-13 ; Times: 2
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 100263" ; Times: 1
+	Query: "100263" ; Times: 1
+	Query: "catalognumber:101565" ; Times: 1
+	Query: "Tauraco reichenowi" ; Times: 2
+	Query: "specificepithet:caeruleus genus:elanus" ; Times: 1
+	Query: "scopus umbretta" ; Times: 1
+	Query: "cuculus poliocephalus" ; Times: 2
+	Query: "specificepithet:caeruleus genus:Elanus year >= 1909" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Elanus year >= 1910" ; Times: 1
+	Query: "Xenoperdix udzungwensis type:specimen" ; Times: 1
+	Query: "catalognumber:100917" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1084 download events in this period)
+Total number of records downloaded: 117 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 107
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-14 ; Times: 1
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Poicephalus" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "specificepithet:macroura genus:Vidua mappable:1" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 161
+Total number of records retrieved from searches: 1792
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 1502
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 168
+Total number of records retrieved from searches: 1853
+Number of download events that retrieved data from the resource: 27
+Total number of records downloaded: 1941
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
