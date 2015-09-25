@@ -1,0 +1,94 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 147
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 39
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-06 ; Times: 3
+	Date: 2015-08-07 ; Times: 3
+	Date: 2015-08-08 ; Times: 3
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-12 ; Times: 3
+	Date: 2015-08-17 ; Times: 1
+	Date: 2015-08-18 ; Times: 2
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-26 ; Times: 4
+	Date: 2015-08-28 ; Times: 7
+	Date: 2015-08-29 ; Times: 12
+	Date: 2015-08-30 ; Times: 2
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 140401" ; Times: 2
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "guttera pucherani" ; Times: 1
+	Query: "KU 8014" ; Times: 1
+	Query: "KU 103220" ; Times: 2
+	Query: "anomalospiza" ; Times: 1
+	Query: "bleda syndactyla" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 18
+	Query: "euplectes albonotatus" ; Times: 1
+	Query: "4380" ; Times: 1
+	Query: ""neocossyphus rufus"" ; Times: 1
+	Query: "coturnix coturnix" ; Times: 1
+	Query: "arquata" ; Times: 1
+	Query: "Bismarck class:Aves" ; Times: 1
+	Query: "140934" ; Times: 1
+	Query: "ploceus insignis" ; Times: 2
+	Query: "Arcanator (skel OR skeleton)" ; Times: 1
+	Query: "pseudonigrita" ; Times: 2
+	Query: "acrocephalus schoenobaenus" ; Times: 2
+	Query: "pachyphantes" ; Times: 1
+	Query: "thamnolaea year >= 2000 year <= 2015" ; Times: 1
+	Query: "cryptoxanthus type:specimen class:Aves" ; Times: 1
+	Query: "trochilus zmuc" ; Times: 1
+	Query: "guttera pucherani barbata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 208
+Total number of records retrieved from searches: 1939
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 1502
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 215
+Total number of records retrieved from searches: 2000
+Number of download events that retrieved data from the resource: 27
+Total number of records downloaded: 1941
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
