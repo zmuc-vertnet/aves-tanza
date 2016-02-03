@@ -1,0 +1,64 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 225
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Denmark ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-01 ; Times: 7
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-02 ; Times: 4
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas erythrorhyncha" ; Times: 1
+	Query: "specificepithet:fischeri genus:Tauraco country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Numida meleagris year &gt;= 1920" ; Times: 1
+	Query: "guttera pucherani year &gt;= 1960" ; Times: 1
+	Query: "guttera" ; Times: 1
+	Query: "Parus institutioncode:ZMUC" ; Times: 1
+	Query: "Guttera pucherani year &gt;= 1950" ; Times: 1
+	Query: "guttera pucherani" ; Times: 1
+	Query: "Acryllium vulturinum year &gt;= 1920" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 1
+	Query: "circaetus" ; Times: 1
+	Query: "Hyliota" ; Times: 1
+	Query: "Guttera pucherani" ; Times: 1
+	Query: "Guttera year &gt;= 1960" ; Times: 2
+	Query: "Corythaeola cristata" ; Times: 1
+	Query: "type:specimen specificepithet:fischeri genus:Tauraco country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "guttera year &gt;= 1990" ; Times: 1
+	Query: "Guttera year &gt;= 1950" ; Times: 1
+	Query: "ku pternistis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 823 download events in this period)
+Total number of records downloaded: 27
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "gularis" ; Times: 1
+
+
+End of report.
