@@ -1,0 +1,64 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 194
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Philippines ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-26 ; Times: 3
+	Date: 2015-09-23 ; Times: 4
+	Date: 2015-09-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ardeola idae" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "KU 8510" ; Times: 1
+	Query: "Butastur" ; Times: 1
+	Query: "137626" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "Psittacidae type:specimen institutioncode:ZMUC" ; Times: 1
+	Query: "Nonnula type:specimen" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 2
+	Query: "corythaeola skin" ; Times: 1
+	Query: "institutioncode:zmuc Psittacidae" ; Times: 3
+	Query: "ku 101001" ; Times: 1
+	Query: "Prinia subflava Tanzania" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1045 download events in this period)
+Total number of records downloaded: 259
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-16 ; Times: 2
+	Date: 2015-09-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "phalacrocoracidae" ; Times: 1
+
+
+End of report.
