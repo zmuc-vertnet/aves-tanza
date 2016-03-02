@@ -1,0 +1,55 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 90
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-02 ; Times: 8
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-11 ; Times: 6
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 105903" ; Times: 1
+	Query: "ptilopsis granti type:specimen" ; Times: 1
+	Query: "101225" ; Times: 1
+	Query: "ptilopsis granti" ; Times: 3
+	Query: "Poicephalus" ; Times: 3
+	Query: "Tmetothylacus tenellus" ; Times: 1
+	Query: "aviceda cuculoides" ; Times: 2
+	Query: "ardeola rufiventris" ; Times: 1
+	Query: "Cisticola keithi" ; Times: 1
+	Query: "ardeola idae" ; Times: 3
+	Query: "ruwenzorii" ; Times: 1
+	Query: "apus barbatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 512 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Strigidae" ; Times: 1
+
+
+End of report.
