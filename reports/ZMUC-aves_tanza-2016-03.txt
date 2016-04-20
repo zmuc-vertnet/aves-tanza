@@ -1,0 +1,47 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 3
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 140421" ; Times: 2
+	Query: "myrmecocichla nigra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 230 download events in this period)
+Total number of records downloaded: 113983
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-10 ; Times: 3
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 8
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "tissue" ; Times: 33
+	Query: "myrmecocichla nigra" ; Times: 1
+
+
+End of report.
