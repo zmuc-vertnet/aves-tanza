@@ -1,0 +1,75 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 249
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Netherlands ; Times: 3
+	Country: Portugal ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-19 ; Times: 3
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-09 ; Times: 9
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-10 ; Times: 6
+	Date: 2016-04-12 ; Times: 5
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crex crex" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "corythaeola cristata" ; Times: 2
+	Query: "Haliaeetus vocifer" ; Times: 1
+	Query: "crex" ; Times: 2
+	Query: "103433" ; Times: 2
+	Query: "anhinga rufa" ; Times: 1
+	Query: "KU 142285" ; Times: 1
+	Query: "KU 142352" ; Times: 1
+	Query: "nectarinia fuelleborni" ; Times: 4
+	Query: "Melierax gabar" ; Times: 1
+	Query: "phalacrocorax carbo (africa)" ; Times: 1
+	Query: "coturnix delegorguei zmuc" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 2
+	Query: "specificepithet:stagnatilis" ; Times: 2
+	Query: "urocolius indicus" ; Times: 1
+	Query: "rallus caerulescens" ; Times: 1
+	Query: "rallus caerulescens skin" ; Times: 1
+	Query: "tachybaptus (africa)" ; Times: 2
+	Query: "sarkidiornis" ; Times: 1
+	Query: "KU 142322" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "phalacrocorax africanus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1312 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Melierax gabar" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+
+
+End of report.
