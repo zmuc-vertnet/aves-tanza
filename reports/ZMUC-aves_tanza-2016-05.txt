@@ -1,0 +1,53 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 147
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Germany ; Times: 5
+	Country: China ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "Treron Tanzania" ; Times: 1
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Illadopsis" ; Times: 1
+	Query: "Colius striatus Tanzania" ; Times: 1
+	Query: "Pycnonotus layardi Tanzania" ; Times: 1
+	Query: "crinifer" ; Times: 1
+	Query: "Pycnonotus tricolor Tanzania" ; Times: 1
+	Query: "Pycnonotus Tanzania" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 327 download events in this period)
+Total number of records downloaded: 116
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
