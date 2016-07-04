@@ -1,0 +1,74 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 660
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Honduras ; Times: 4
+	Country: Portugal ; Times: 13
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 17
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 3
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-08 ; Times: 5
+	Date: 2016-06-20 ; Times: 6
+	Date: 2016-06-07 ; Times: 3
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-03 ; Times: 4
+	Date: 2016-06-02 ; Times: 4
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-14 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "collectioncode:Passeriformes" ; Times: 1
+	Query: "collectioncode:Cuculiformes" ; Times: 1
+	Query: "collectioncode:Columbiformes" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 4
+	Query: "106011" ; Times: 3
+	Query: "KU 103221" ; Times: 1
+	Query: "KU 103220" ; Times: 3
+	Query: "Cursorius" ; Times: 1
+	Query: "collectioncode:Galliformes" ; Times: 1
+	Query: "pternistis" ; Times: 2
+	Query: "buphagus" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 2
+	Query: "haliaeetus vocifer" ; Times: 2
+	Query: "KU 143105" ; Times: 1
+	Query: "Ploceus cucullatus 1" ; Times: 2
+	Query: "134397" ; Times: 1
+	Query: "pternistis afer" ; Times: 3
+	Query: "103398" ; Times: 1
+	Query: "peliperdix coqui" ; Times: 1
+	Query: "Serinus mozambicus 1" ; Times: 2
+	Query: "Agapornis personatus 1" ; Times: 3
+	Query: "genus:Salpornis" ; Times: 1
+	Query: "scleroptila shelleyi" ; Times: 2
+	Query: "collectioncode:Piciformes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1052 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
