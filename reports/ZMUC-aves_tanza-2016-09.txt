@@ -1,0 +1,82 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 156
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Italy ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Portugal ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 3
+	Date: 2016-09-10 ; Times: 3
+	Date: 2016-09-08 ; Times: 19
+	Date: 2016-09-09 ; Times: 8
+	Date: 2016-09-14 ; Times: 3
+	Date: 2016-09-06 ; Times: 2
+	Date: 2016-09-07 ; Times: 11
+	Date: 2016-09-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 134760" ; Times: 2
+	Query: "9759 class:Aves" ; Times: 1
+	Query: "Centropus grillii" ; Times: 3
+	Query: "Estrilda astrild 1" ; Times: 2
+	Query: "Actophilornis africanus 1" ; Times: 1
+	Query: "specificepithet:concreta" ; Times: 2
+	Query: "falco biarmicus" ; Times: 1
+	Query: "Accipiter tachiro 1" ; Times: 1
+	Query: "Acryllium vulturinum 1" ; Times: 1
+	Query: "Accipiter badius 1" ; Times: 2
+	Query: "Bubo bubo 1" ; Times: 1
+	Query: "Quelea quelea 1" ; Times: 3
+	Query: "Colius striatus 1" ; Times: 1
+	Query: "Lamprotornis hildebrandti 1" ; Times: 1
+	Query: "Bostrychia hagedash 1" ; Times: 1
+	Query: "Anas hottentota 1" ; Times: 1
+	Query: "Serinus mozambicus 1" ; Times: 2
+	Query: "Coracias spatulata" ; Times: 1
+	Query: "Amaurornis flavirostra 1" ; Times: 1
+	Query: "140930" ; Times: 1
+	Query: "Hypargos niveoguttatus 1" ; Times: 1
+	Query: "Ploceus cucullatus 1" ; Times: 1
+	Query: "Coturnix delegorguei 1" ; Times: 1
+	Query: "Coracias spatulatus" ; Times: 3
+	Query: "Lonchura bicolor 1" ; Times: 1
+	Query: "Corythaixoides leucogaster 1" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 1
+	Query: "Agapornis personatus 1" ; Times: 3
+	Query: "Oena capensis 1" ; Times: 1
+	Query: "amblyospiza albifrons" ; Times: 1
+	Query: "Bubalornis niger 1" ; Times: 1
+	Query: "Ploceus intermedius 1" ; Times: 2
+	Query: "centropus grillii" ; Times: 2
+	Query: "Merops persicus" ; Times: 1
+	Query: "Coracias caudatus 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 811 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Italy ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:concreta" ; Times: 1
+	Query: "Coracias spatulata" ; Times: 1
+
+
+End of report.
