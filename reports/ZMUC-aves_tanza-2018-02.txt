@@ -1,0 +1,174 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 263
+Number of records retrieved in searches: 3193
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 221
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 29
+	Country: Germany ; Times: 2
+	Country: Cyprus ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-23 ; Times: 15
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-11 ; Times: 2
+	Date: 2018-02-27 ; Times: 115
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-06 ; Times: 4
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-01 ; Times: 3
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-20 ; Times: 107
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Vanellus armatus mappable:1" ; Times: 4
+	Query: "Uraeginthus bengalus mappable:1" ; Times: 4
+	Query: "Vidua paradisaea mappable:1" ; Times: 5
+	Query: "Agapornis personatus mappable:1" ; Times: 3
+	Query: "ku 6623" ; Times: 1
+	Query: "Phoeniculus purpureus mappable:1" ; Times: 4
+	Query: "Bubo africanus mappable:1" ; Times: 3
+	Query: "Accipiter badius mappable:1" ; Times: 4
+	Query: "specificepithet:pusillus genus:Pogoniulus country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Batis crypta" ; Times: 2
+	Query: "Sarkidiornis melanotos mappable:1" ; Times: 4
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Lagonosticta senegala mappable:1" ; Times: 4
+	Query: "Euplectes axillaris mappable:1" ; Times: 4
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "ortygospiza" ; Times: 1
+	Query: "Platysteira peltata" ; Times: 2
+	Query: "Amandava subflava mappable:1" ; Times: 5
+	Query: "Bias musicus" ; Times: 1
+	Query: "Pytilia melba mappable:1" ; Times: 4
+	Query: "Ploceus intermedius mappable:1" ; Times: 4
+	Query: "Oena capensis mappable:1" ; Times: 4
+	Query: "Anas capensis mappable:1" ; Times: 4
+	Query: "Lonchura nigriceps mappable:1" ; Times: 4
+	Query: "142457" ; Times: 1
+	Query: "Batis soror" ; Times: 1
+	Query: "Cosmopsarus regius mappable:1" ; Times: 3
+	Query: "Quelea quelea mappable:1" ; Times: 4
+	Query: "Estrilda rhodopyga mappable:1" ; Times: 4
+	Query: "Actophilornis africanus mappable:1" ; Times: 5
+	Query: "Lonchura cantans mappable:1" ; Times: 5
+	Query: "Serinus mozambicus mappable:1" ; Times: 3
+	Query: "class:aves institutioncode:ZMUC" ; Times: 1
+	Query: "genus:chlorocichla institutioncode:ZMUC" ; Times: 1
+	Query: "Zosterops senegalensis mappable:1" ; Times: 4
+	Query: "Lamprotornis chalybaeus mappable:1" ; Times: 5
+	Query: "Euplectes hordeaceus mappable:1" ; Times: 4
+	Query: "Quelea erythrops mappable:1" ; Times: 4
+	Query: "Ceratogymna brevis mappable:1" ; Times: 3
+	Query: "specificepithet:virens genus:andropadus hastissue:1" ; Times: 1
+	Query: "Ploceus nigerrimus mappable:1" ; Times: 4
+	Query: "Batis mixta" ; Times: 1
+	Query: "Ploceus castaneiceps mappable:1" ; Times: 4
+	Query: "Prionops scopifrons" ; Times: 2
+	Query: "Vidua macroura mappable:1" ; Times: 4
+	Query: "Haliaeetus vocifer mappable:1" ; Times: 4
+	Query: "Ploceus melanocephalus mappable:1" ; Times: 4
+	Query: "Anas erythrorhyncha mappable:1" ; Times: 4
+	Query: "Platysteira concreta" ; Times: 1
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "Prionops retzii" ; Times: 1
+	Query: "Acrocephalus arundinaceus" ; Times: 1
+	Query: "Vidua chalybeata mappable:1" ; Times: 3
+	Query: "Tockus nasutus mappable:1" ; Times: 3
+	Query: "Numida meleagris mappable:1" ; Times: 4
+	Query: "Ploceus jacksoni mappable:1" ; Times: 4
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "Batis minor" ; Times: 1
+	Query: "Vanellus senegallus mappable:1" ; Times: 4
+	Query: "Lamprotornis superbus mappable:1" ; Times: 4
+	Query: "prinia tenella" ; Times: 1
+	Query: "Euplectes ardens mappable:1" ; Times: 3
+	Query: "Tauraco hartlaubi mappable:1" ; Times: 4
+	Query: "Amadina fasciata mappable:1" ; Times: 4
+	Query: "Anas hottentota mappable:1" ; Times: 3
+	Query: "Amandava amandava mappable:1" ; Times: 9
+	Query: "riparia paludicola" ; Times: 1
+	Query: "Oxyura maccoa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bostrychia hagedash mappable:1" ; Times: 4
+	Query: "specificepithet:virens genus:andropadus institutioncode:ZMUC" ; Times: 1
+	Query: "Platysteira jamesoni" ; Times: 2
+	Query: "Scopus umbretta mappable:1" ; Times: 4
+	Query: "Lonchura cucullata mappable:1" ; Times: 3
+	Query: "Buteo augur" ; Times: 2
+	Query: "genus:Pogoniulus class:Aves country:&#34;Tanzania&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "genus:monarcha class:aves (makira) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Agapornis pullarius mappable:1" ; Times: 3
+	Query: "Estrilda astrild mappable:1" ; Times: 4
+	Query: "Locustella fluviatilis" ; Times: 2
+	Query: "specificepithet:virens genus:Andropadus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cypsiurus Tanzania" ; Times: 2
+	Query: "Vidua fischeri mappable:1" ; Times: 4
+	Query: "specificepithet:bilineatus genus:Pogoniulus class:Aves country:&#34;Tanzania&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "Estrilda perreini mappable:1" ; Times: 4
+	Query: "Columba guinea mappable:1" ; Times: 4
+	Query: "Euplectes nigroventris mappable:1" ; Times: 4
+	Query: "Serinus dorsostriatus mappable:1" ; Times: 3
+	Query: "Tockus deckeni mappable:1" ; Times: 4
+	Query: "Lonchura bicolor mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1892 download events in this period)
+Total number of records downloaded: 715
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Israel ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-23 ; Times: 14
+	Date: 2018-02-05 ; Times: 6
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Platysteira jamesoni" ; Times: 1
+	Query: "Batis minor" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Platysteira concreta" ; Times: 1
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Prionops retzii" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "Platysteira castanea" ; Times: 1
+	Query: "Batis crypta" ; Times: 1
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "Platysteira peltata" ; Times: 1
+	Query: "Bias musicus" ; Times: 1
+	Query: "Batis molitor" ; Times: 1
+	Query: "specificepithet:virens genus:Andropadus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Batis mixta" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Prionops scopifrons" ; Times: 1
+	Query: "Batis soror" ; Times: 1
+
+
+End of report.
