@@ -1,0 +1,120 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 3550
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 87
+	Country: Singapore ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: South Africa ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-09 ; Times: 10
+	Date: 2018-01-01 ; Times: 4
+	Date: 2018-01-11 ; Times: 3
+	Date: 2018-01-25 ; Times: 3
+	Date: 2018-01-26 ; Times: 20
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-17 ; Times: 7
+	Date: 2018-01-23 ; Times: 5
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-03 ; Times: 8
+	Date: 2018-01-12 ; Times: 18
+	Date: 2018-01-05 ; Times: 5
+	Date: 2018-01-10 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Cossypha heuglini mappable:1" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "specificepithet:vittatum genus:apaloderma" ; Times: 1
+	Query: "genus:Zosterops institutioncode:ZMUC" ; Times: 2
+	Query: "phyllastrephus albigula" ; Times: 4
+	Query: "Cossypha anomala mappable:1" ; Times: 13
+	Query: "138617" ; Times: 1
+	Query: "Pogonocichla stellata" ; Times: 1
+	Query: "Cossypha anomala" ; Times: 8
+	Query: "specificepithet:walleri genus:Onychognathus" ; Times: 2
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "trogonidae ku" ; Times: 2
+	Query: "Cossypha heuglini" ; Times: 1
+	Query: "Buteo augur" ; Times: 2
+	Query: "specificepithet:insignis genus:Ploceus" ; Times: 2
+	Query: "specificepithet:bocagei genus:Sheppardia" ; Times: 2
+	Query: "dicrurus ludwigii" ; Times: 2
+	Query: "specificepithet:bilineatus genus:Pogoniulus country:&#34;Tanzania&#34;" ; Times: 2
+	Query: "specificepithet:vittatum genus:Apaloderma" ; Times: 12
+	Query: "Schoenicola" ; Times: 1
+	Query: "Phyllastrephus flavostriatus" ; Times: 1
+	Query: "Cossypha natalensis" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 4
+	Query: "Nettapus auritus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cossypha caffra" ; Times: 1
+	Query: "specificepithet:reichenovii genus:Cryptospiza" ; Times: 2
+	Query: "(bird) institutioncode:ZMUC" ; Times: 2
+	Query: "Phyllastrephus fischeri" ; Times: 1
+	Query: "Crex Crex" ; Times: 3
+	Query: "Pogonocichla stellata mappable:1" ; Times: 1
+	Query: "KU 4986" ; Times: 2
+	Query: "Phyllastrephus cerviniventris" ; Times: 1
+	Query: "specificepithet:lopezi genus:Bradypterus" ; Times: 2
+	Query: "cercotrichas sclateri" ; Times: 2
+	Query: "Phyllastrephus fischeri mappable:1" ; Times: 1
+	Query: "Phyllastrephus flavostriatus mappable:1" ; Times: 1
+	Query: "Phyllastrephus cabanisi" ; Times: 1
+	Query: "Phyllastrephus cerviniventris mappable:1" ; Times: 1
+	Query: "specificepithet:cristata genus:Alcedo" ; Times: 1
+	Query: "136206" ; Times: 1
+	Query: "genus:dendrocygna class:Aves year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "KU 4974" ; Times: 1
+	Query: "KU 138617" ; Times: 1
+	Query: "Prionops scopifrons" ; Times: 3
+	Query: "Cossypha caffra mappable:1" ; Times: 1
+	Query: "Cossypha natalensis mappable:1" ; Times: 1
+	Query: "Phyllastrephus cabanisi mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Zosterops institutioncode:ZMUC" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1398 download events in this period)
+Total number of records downloaded: 1297
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Acrocephalus" ; Times: 1
+	Query: "specificepithet:vittatum genus:apaloderma" ; Times: 1
+	Query: "Schoenicola" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 1
+	Query: "Platysteiridae" ; Times: 1
+	Query: "Bradypterus" ; Times: 1
+	Query: "Locustella" ; Times: 1
+	Query: "class:Aves preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Buteo augur" ; Times: 1
+
+
+End of report.
