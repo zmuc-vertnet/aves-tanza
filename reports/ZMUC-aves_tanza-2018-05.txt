@@ -1,0 +1,71 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 235
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:astrild genus:Estrilda" ; Times: 1
+	Query: "specificepithet:bilineatus genus:Pogoniulus class:Aves country:&#34;Tanzania&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "Campephaga flava" ; Times: 1
+	Query: "specificepithet:barbatus genus:Pycnonotus hastissue:1" ; Times: 2
+	Query: "ploceus subaureus" ; Times: 1
+	Query: "KU 5929" ; Times: 1
+	Query: "ku 9432" ; Times: 1
+	Query: "KU 7250 Aves" ; Times: 1
+	Query: "ku 8053" ; Times: 1
+	Query: "specificepithet:rufiventer genus:terpsiphone institutioncode:ZMUC" ; Times: 1
+	Query: "genus:terpsiphone institutioncode:ZMUC" ; Times: 1
+	Query: "specificepithet:astrild genus:Estrilda mappable:1" ; Times: 1
+	Query: "specificepithet:astrild genus:Estrilda mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Anomalospiza" ; Times: 1
+	Query: "KU 7250" ; Times: 2
+	Query: "anomalospiza" ; Times: 1
+	Query: "specificepithet:rufiventris genus:Accipiter" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1178 download events in this period)
+Total number of records downloaded: 980
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Austria ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "specificepithet:barbatus genus:Pycnonotus hastissue:1" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+
+
+End of report.
