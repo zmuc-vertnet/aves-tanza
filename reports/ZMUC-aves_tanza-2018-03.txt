@@ -1,0 +1,129 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 1686
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 101
+	Country: Italy ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Cyprus ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 7
+	Date: 2018-03-28 ; Times: 5
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-12 ; Times: 16
+	Date: 2018-03-02 ; Times: 13
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-20 ; Times: 6
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-03 ; Times: 9
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-11 ; Times: 4
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 14
+	Date: 2018-03-27 ; Times: 8
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-23 ; Times: 13
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-21 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves institutioncode:ZMUC" ; Times: 1
+	Query: "specificepithet:poliocephala genus:alethe hastissue:1" ; Times: 1
+	Query: "specificepithet:shelleyi class:aves" ; Times: 1
+	Query: "Ploceus burnieri" ; Times: 1
+	Query: "Cossypha polioptera" ; Times: 1
+	Query: "genus:Cuculus specificepithet:canorus" ; Times: 4
+	Query: "order:Passeriformes institutioncode:ZMUC" ; Times: 1
+	Query: "nectarinia institutioncode:ZMUC" ; Times: 1
+	Query: "074002" ; Times: 1
+	Query: "genus:Pogoniulus country:&#34;Tanzania&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen genus:coracina specificepithet:caesia" ; Times: 1
+	Query: "specificepithet:nisus genus:Accipiter continent:Africa" ; Times: 1
+	Query: "nectarinia olivacea institutioncode:ZMUC hastissue:1" ; Times: 1
+	Query: "specificepithet:personatus genus:Agapornis" ; Times: 3
+	Query: "genus:bradypterus specificepithet:cinnamomeus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:sheppardia specificepithet:bocagei basisofrecord:PreservedSpecimen class:aves" ; Times: 1
+	Query: "Ploceus jacksoni" ; Times: 2
+	Query: "specificepithet:lopezi basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ploceus spekei" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen genus:Laniarius specificepithet:fuelleborni" ; Times: 1
+	Query: "138534" ; Times: 1
+	Query: "genus:Actitis specificepithet:hypoleucos" ; Times: 2
+	Query: "genus:linurgus specificepithet:olivaceus basisofrecord:PreservedSpecimen class:aves" ; Times: 2
+	Query: "genus:Ardea institutioncode:ZMUC" ; Times: 3
+	Query: "specificepithet:lopezi basisofrecord:PreservedSpecimen class:aves" ; Times: 2
+	Query: "genus:Merops specificepithet:pusillus" ; Times: 6
+	Query: "KU 4986" ; Times: 2
+	Query: "Ploceus subaureus" ; Times: 2
+	Query: "074032" ; Times: 1
+	Query: "genus:bradypterus specificepithet:lopezi basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:ploceus specificepithet:insignis basisofrecord:PreservedSpecimen class:aves" ; Times: 1
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 5
+	Query: "genus:Coracias specificepithet:garrulus" ; Times: 5
+	Query: "institutioncode:ZMUC class:Aves" ; Times: 1
+	Query: "ku hirundo daurica" ; Times: 1
+	Query: "genus:Falco specificepithet:tinnunculus" ; Times: 2
+	Query: "vincenti" ; Times: 2
+	Query: "101843" ; Times: 1
+	Query: "genus:Caprimulgus specificepithet:europaeus" ; Times: 5
+	Query: "vntype:specimen specificepithet:virens genus:andropadus" ; Times: 1
+	Query: "074492" ; Times: 3
+	Query: "Cossypha polioptera mappable:1" ; Times: 1
+	Query: "specificepithet:daurica genus:cecropis OR hirundo continent:africa" ; Times: 2
+	Query: "KU 2534" ; Times: 1
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 5
+	Query: "country:&#34;Tanzania&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 5
+	Query: "specificepithet:burtoni basisofrecord:PreservedSpecimen class:aves" ; Times: 1
+	Query: "KU 4974" ; Times: 6
+	Query: "specificepithet:bilineatus genus:Pogoniulus class:Aves country:&#34;Tanzania&#34; institutioncode:ZMUC" ; Times: 2
+	Query: "074027" ; Times: 1
+	Query: "genus:onychognathus specificepithet:walleri basisofrecord:PreservedSpecimen class:aves" ; Times: 1
+	Query: "074024" ; Times: 1
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 2
+	Query: "074021" ; Times: 1
+	Query: "074034" ; Times: 2
+	Query: "105820" ; Times: 1
+	Query: "specificepithet:bocagei basisofrecord:PreservedSpecimen class:aves" ; Times: 1
+	Query: "Falco biarmicus" ; Times: 1
+	Query: "Turnix sylvatica" ; Times: 1
+	Query: "101537" ; Times: 2
+	Query: "074029" ; Times: 2
+	Query: "genus:euplectes specificepithet:capensis basisofrecord:PreservedSpecimen class:aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1284 download events in this period)
+Total number of records downloaded: 9780
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 2
+	Country: Israel ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Corvidae hastissue:1" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "institutioncode:ZMUC class:Aves" ; Times: 1
+	Query: "nectarinia olivacea institutioncode:ZMUC hastissue:1" ; Times: 1
+
+
+End of report.
