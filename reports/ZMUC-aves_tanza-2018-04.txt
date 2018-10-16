@@ -1,0 +1,61 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 462
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 12
+	Country: United States ; Times: 3
+	Country: France ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-11 ; Times: 6
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-09 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pogoniulus locality:Mdandu Forest Reserve country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "101256" ; Times: 1
+	Query: "specificepithet:bilineatus genus:Pogoniulus country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "specificepithet:leucomystax genus:Pogoniulus" ; Times: 2
+	Query: "stactolaema olivacea" ; Times: 3
+	Query: "locality:Mdandu Forest Reserve" ; Times: 1
+	Query: "134173" ; Times: 1
+	Query: "105820" ; Times: 1
+	Query: "class:Aves locality:Poroto country:&#34;Tanzania&#34;" ; Times: 2
+	Query: "specificepithet:pusillus genus:Pogoniulus" ; Times: 1
+	Query: "KU 4813" ; Times: 1
+	Query: "KU 8564" ; Times: 2
+	Query: "Pogoniulus chrysoconus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1359 download events in this period)
+Total number of records downloaded: 443
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "family:Sylviidae hastypestatus:1" ; Times: 1
+	Query: "alcohol vntype:specimen order:passeriformes" ; Times: 1
+
+
+End of report.
