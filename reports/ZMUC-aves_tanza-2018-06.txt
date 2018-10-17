@@ -1,0 +1,89 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 407
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 30
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 4
+	Date: 2018-06-14 ; Times: 7
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 8
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 4
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-20 ; Times: 4
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:atrocaerulea genus:hirundo" ; Times: 1
+	Query: "KU 100901" ; Times: 1
+	Query: "cercotrichas barbata" ; Times: 2
+	Query: "ploceus sharpii" ; Times: 1
+	Query: "KU 102149" ; Times: 1
+	Query: "zmuc aves year &gt; 2005" ; Times: 1
+	Query: "Schoenicola brevirostris" ; Times: 1
+	Query: "zmuc aves year &gt; 2008" ; Times: 1
+	Query: "KU 102147" ; Times: 2
+	Query: "Camaroptera vntype:specimen (tincta )" ; Times: 2
+	Query: "zmuc year &gt; 2005" ; Times: 1
+	Query: "specificepithet:barbatus genus:Pycnonotus hastissue:1" ; Times: 1
+	Query: "KU 5937" ; Times: 3
+	Query: "Schoenicola" ; Times: 1
+	Query: "specificepithet:fischeri genus:Tauraco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Camaroptera brachyura (mikindani)" ; Times: 1
+	Query: "Falco fasciinucha" ; Times: 2
+	Query: "pogoniulus pusillus" ; Times: 1
+	Query: "KU 132328" ; Times: 1
+	Query: "KU 102139" ; Times: 1
+	Query: "KU 103544" ; Times: 1
+	Query: "KU 105932" ; Times: 1
+	Query: "Trochocercus vivax" ; Times: 1
+	Query: "oenanthe lugubris" ; Times: 1
+	Query: "KU 101105" ; Times: 1
+	Query: "sheppardia aurantiithorax" ; Times: 1
+	Query: "specificepithet:hirsuta genus:Tricholaema" ; Times: 1
+	Query: "zmuc year &gt; 2000" ; Times: 1
+	Query: "specificepithet:albiceps genus:psalidoprocne" ; Times: 1
+	Query: "KU 5929" ; Times: 3
+	Query: "genus:Plegadis family:Threskiornithidae class:Aves continent:Africa" ; Times: 1
+	Query: "KU 103519" ; Times: 1
+	Query: "KU 100960" ; Times: 1
+	Query: "KU 103513" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1169 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
