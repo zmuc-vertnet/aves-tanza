@@ -1,0 +1,110 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 899
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 45
+	Country: Italy ; Times: 5
+	Country: South Africa ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 15
+	Country: Cyprus ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-06 ; Times: 20
+	Date: 2018-08-08 ; Times: 4
+	Date: 2018-08-30 ; Times: 6
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-22 ; Times: 8
+	Date: 2018-08-21 ; Times: 4
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-11 ; Times: 14
+	Date: 2018-08-01 ; Times: 11
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:shelleyi genus:nectarinia year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "vntype:specimen specificepithet:angolensis genus:pitta year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciolatus genus:circaetus year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "microparra" ; Times: 1
+	Query: "family:indicatoridae hastissue:1" ; Times: 2
+	Query: "zmuc aves-" ; Times: 1
+	Query: "KU madaraszi" ; Times: 2
+	Query: "vntype:specimen genus:Corythaeola" ; Times: 2
+	Query: "1435 KU" ; Times: 1
+	Query: "vntype:specimen specificepithet:delegorguei genus:Columba year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "KU 8132" ; Times: 2
+	Query: "Poicephalus juvenile" ; Times: 12
+	Query: "vntype:specimen specificepithet:livingstonei genus:erythrocercus year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "falco biarmicus" ; Times: 6
+	Query: "specificepithet:biarmicus genus:falco" ; Times: 1
+	Query: "vntype:specimen specificepithet:boehmi genus:merops year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "zmuc tanzania" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciinucha genus:falco year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "7066 KU" ; Times: 2
+	Query: "KU-102345" ; Times: 1
+	Query: "genus:Indicator hastissue:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:atrocaerulea genus:hirundo year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:pyrenestes year &gt;= 1890 year &lt;= 1995" ; Times: 1
+	Query: "vntype:specimen specificepithet:olivaceiceps genus:ploceus year &gt;= 1875 year &lt;= 1995" ; Times: 1
+	Query: "zmuc galliformes" ; Times: 2
+	Query: "pogoniulus chrysoconus" ; Times: 1
+	Query: "specificepithet:chrysoconus genus:Pogoniulus country:&#34;Tanzania&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:capensis genus:smithornis year &gt;= 1875 year &lt;= 2005" ; Times: 2
+	Query: "vntype:specimen specificepithet:fischeri genus:Tauraco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "KU 6517" ; Times: 3
+	Query: "vntype:specimen specificepithet:montanus genus:cercococcyx year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "vntype:specimen specificepithet:olivacea genus:stactolaema year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "vntype:specimen specificepithet:poliocephalus genus:cuculus year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "KU 7066" ; Times: 3
+	Query: "9832 KU" ; Times: 1
+	Query: "vntype:specimen specificepithet:meliphilus genus:indicator year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "Glaucidium capense" ; Times: 4
+	Query: "Poicephalus robustus" ; Times: 1
+	Query: "KU 9612" ; Times: 1
+	Query: "Rallus zmuc" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavigaster genus:hyliota year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "Poicephalus gonads" ; Times: 2
+	Query: "vntype:specimen genus:Tauraco institutioncode:ZMUC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aves institutioncode:ZMUC" ; Times: 1
+	Query: "specificepithet:darnaudii genus:Trachyphonus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1416 download events in this period)
+Total number of records downloaded: 9629
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Italy ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:minor genus:pyrenestes year &gt;= 1890 year &lt;= 1995" ; Times: 1
+	Query: "Poicephalus gonads" ; Times: 1
+	Query: "Poicephalus juvenile" ; Times: 1
+	Query: "falco biarmicus" ; Times: 1
+	Query: "zmuc aves-" ; Times: 1
+
+
+End of report.
