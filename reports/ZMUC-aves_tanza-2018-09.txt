@@ -1,0 +1,82 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 631
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: Italy ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 15
+	Country: Cyprus ; Times: 1
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-10 ; Times: 6
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-24 ; Times: 8
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:aurantiithorax" ; Times: 1
+	Query: "specificepithet:montana genus:sheppardia" ; Times: 1
+	Query: "KU 5212" ; Times: 1
+	Query: "kungwensis genus:sheppardia" ; Times: 1
+	Query: "genus:pternistis institutioncode:ZMUC" ; Times: 2
+	Query: "melocichla" ; Times: 1
+	Query: "Apalis argentea" ; Times: 6
+	Query: "genus:Smithornis class:Aves hastissue:1" ; Times: 1
+	Query: "order:Passeriformes class:Aves institutioncode:ZMUC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Bias class:Aves" ; Times: 1
+	Query: "ilyai genus:sheppardia" ; Times: 1
+	Query: "Sheppardia zmuc" ; Times: 1
+	Query: "specificepithet:bocagei genus:sheppardia" ; Times: 1
+	Query: "KU 143105" ; Times: 1
+	Query: "Motacilla flava lutea" ; Times: 1
+	Query: "Coracias spatulatus" ; Times: 4
+	Query: "cercotrichas sclateri" ; Times: 1
+	Query: "gbifdatasetid:af3bce08-0599-45a6-9bfc-08188bcd868e" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "M-101633" ; Times: 1
+	Query: "specificepithet:gunningi genus:sheppardia" ; Times: 2
+	Query: "genus:porphyrio institutioncode:ZMUC" ; Times: 1
+	Query: "coracias spatulatus" ; Times: 1
+	Query: "specificepithet:lowei genus:sheppardia" ; Times: 2
+	Query: "ilyai" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 846 download events in this period)
+Total number of records downloaded: 9663
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves institutioncode:ZMUC" ; Times: 1
+	Query: "prionops" ; Times: 1
+
+
+End of report.
