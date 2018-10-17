@@ -1,0 +1,118 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 1790
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 19
+	Country: Australia ; Times: 4
+	Country: Portugal ; Times: 3
+	Country: South Africa ; Times: 9
+	Country: France ; Times: 2
+	Country: United States ; Times: 36
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 10
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-08 ; Times: 2
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-04 ; Times: 13
+	Date: 2018-07-05 ; Times: 2
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-03 ; Times: 4
+	Date: 2018-07-22 ; Times: 6
+	Date: 2018-07-31 ; Times: 12
+	Date: 2018-07-24 ; Times: 7
+	Date: 2018-07-23 ; Times: 3
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-25 ; Times: 6
+	Date: 2018-07-20 ; Times: 2
+	Date: 2018-07-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "2-1475 aves" ; Times: 1
+	Query: "100446" ; Times: 2
+	Query: "Cisticola lais" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 2
+	Query: "KU nectarinia" ; Times: 1
+	Query: "genus:turdus institutioncode:ZMUC" ; Times: 1
+	Query: "glaucidium capense" ; Times: 2
+	Query: "genus:Porphyrio institutioncode:ZMUC" ; Times: 5
+	Query: "specificepithet:olivacea genus:Nectarinia institutioncode:ZMUC hastissue:1" ; Times: 2
+	Query: "ZMUC nectarinia" ; Times: 3
+	Query: "Netta erythrophthalma mappable:1" ; Times: 1
+	Query: "genus:pternistis institutioncode:ZMUC" ; Times: 4
+	Query: "ardea purpurea" ; Times: 3
+	Query: "specificepithet:afer genus:pternistis institutioncode:ZMUC" ; Times: 2
+	Query: "genus:eurocephalus" ; Times: 1
+	Query: "Serinus melanochrous" ; Times: 2
+	Query: "6070 KU" ; Times: 1
+	Query: "specificepithet:brachyura genus:camaroptera hastissue:1" ; Times: 1
+	Query: "preparations:skeleton institutioncode:ZMUC" ; Times: 2
+	Query: "Cisticola lais semifasciatus" ; Times: 1
+	Query: "Dendrocygna viduata mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:oriolus institutioncode:ZMUC" ; Times: 1
+	Query: "KU 100529" ; Times: 1
+	Query: "3631 ku" ; Times: 1
+	Query: "specificepithet:leucoscepus genus:pternistis institutioncode:ZMUC" ; Times: 1
+	Query: "Bubulcus ibis mappable:1" ; Times: 1
+	Query: "KU 4600" ; Times: 1
+	Query: "1476 KU" ; Times: 1
+	Query: "ZMUC nectarinia olivacea" ; Times: 1
+	Query: "Crinifer zonurus country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "100446 aves" ; Times: 2
+	Query: "7396 Psittacidae" ; Times: 3
+	Query: "Corythaeola cristata" ; Times: 1
+	Query: "order:Passeriformes institutioncode:ZMUC" ; Times: 1
+	Query: "Serinus buchanani" ; Times: 1
+	Query: "genus:oriolus institutioncode:ZMUC" ; Times: 1
+	Query: "136338" ; Times: 1
+	Query: "Serinus whytii" ; Times: 3
+	Query: "KU nectarinia olivacea" ; Times: 1
+	Query: "139124" ; Times: 2
+	Query: "100529" ; Times: 1
+	Query: "ku 2796" ; Times: 1
+	Query: "zoothera otomitra" ; Times: 1
+	Query: "Glaucidium capense" ; Times: 7
+	Query: "7373 F" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 2
+	Query: "eurocephalus" ; Times: 1
+	Query: "vntype:specimen genus:turdus institutioncode:ZMUC" ; Times: 1
+	Query: "class:Aves institutioncode:ZMUC hastypestatus:1" ; Times: 1
+	Query: "KU 8563" ; Times: 1
+	Query: "4744 KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 977 download events in this period)
+Total number of records downloaded: 9496
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Australia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "class:Aves institutioncode:ZMUC hastypestatus:1" ; Times: 1
+	Query: "genus:eurocephalus" ; Times: 1
+
+
+End of report.
