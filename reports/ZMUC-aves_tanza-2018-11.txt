@@ -1,0 +1,95 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 268
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 3
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-06 ; Times: 4
+	Date: 2018-11-12 ; Times: 2
+	Date: 2018-11-13 ; Times: 5
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-15 ; Times: 4
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-10 ; Times: 4
+	Date: 2018-11-27 ; Times: 3
+	Date: 2018-11-21 ; Times: 8
+	Date: 2018-11-20 ; Times: 1
+	Date: 2018-11-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Euplectes nigroventris" ; Times: 2
+	Query: "Telacanthura ussheri stictilaema" ; Times: 1
+	Query: "Ploceus nicolli" ; Times: 1
+	Query: "Ploceus burnieri" ; Times: 2
+	Query: "KU-103348" ; Times: 2
+	Query: "Euplectes gierowii" ; Times: 1
+	Query: "Euplectes psammocromius" ; Times: 1
+	Query: "Milvus milvus" ; Times: 1
+	Query: "Ploceus vitellinus" ; Times: 1
+	Query: "platysteira concreta" ; Times: 1
+	Query: "Ploceus nicolli basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "KU ploceus" ; Times: 1
+	Query: "Euplectes diadematus" ; Times: 1
+	Query: "Telacanthura ussheri" ; Times: 2
+	Query: "Batis minor" ; Times: 2
+	Query: "Telacanthura ussheri ussheri" ; Times: 1
+	Query: "Ploceus olivaceiceps" ; Times: 1
+	Query: "Bias musicus" ; Times: 1
+	Query: "Platysteira concreta" ; Times: 2
+	Query: "hyliota" ; Times: 1
+	Query: "cercotrichas sclateri" ; Times: 1
+	Query: "Apus affinis aerobates" ; Times: 2
+	Query: "sarkidiornis melanotos" ; Times: 1
+	Query: "Prionops scopifrons" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 1
+	Query: "Anomalospiza" ; Times: 1
+	Query: "alopochen" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1719 download events in this period)
+Total number of records downloaded: 364
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-09 ; Times: 1
+	Date: 2018-11-07 ; Times: 1
+	Date: 2018-11-13 ; Times: 3
+	Date: 2018-11-03 ; Times: 1
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Batis minor" ; Times: 1
+	Query: "order:Ciconiiformes hastissue:1" ; Times: 1
+	Query: "Batis" ; Times: 1
+	Query: "Bias musicus" ; Times: 1
+	Query: "platysteira concreta" ; Times: 1
+	Query: "family:accipitridae hastissue:1" ; Times: 1
+	Query: "Prionops scopifrons" ; Times: 1
+	Query: "Platysteira concreta" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "saxicola torquata hastissue:1" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 1
+
+
+End of report.
