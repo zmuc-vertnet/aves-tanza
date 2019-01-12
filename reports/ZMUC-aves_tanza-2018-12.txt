@@ -1,0 +1,71 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pternistis afer cranchii" ; Times: 1
+	Query: "146146" ; Times: 1
+	Query: "hirundo atrocaerulea" ; Times: 1
+	Query: "105868" ; Times: 1
+	Query: "KU-4248" ; Times: 1
+	Query: "074032" ; Times: 1
+	Query: "136516" ; Times: 1
+	Query: "KU-103348" ; Times: 1
+	Query: "136514" ; Times: 1
+	Query: "074024" ; Times: 1
+	Query: "macheiramphus" ; Times: 1
+	Query: "Glaucidium perlatum" ; Times: 1
+	Query: "treron granti" ; Times: 1
+	Query: "Alopochen" ; Times: 1
+	Query: "ku 6655" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 809 download events in this period)
+Total number of records downloaded: 43
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: India ; Times: 3
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucidium perlatum" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+
+
+End of report.
