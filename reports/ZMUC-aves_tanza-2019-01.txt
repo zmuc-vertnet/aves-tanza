@@ -1,0 +1,90 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 794
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 9
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-26 ; Times: 3
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-31 ; Times: 5
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "recordedby:andersen institutioncode:ZMUC" ; Times: 1
+	Query: "Terpsiphone hastissue:1" ; Times: 1
+	Query: "falco biarmicus" ; Times: 1
+	Query: "camaroptera fugglescouchmani" ; Times: 1
+	Query: "order:passeriformes country:&#34;tanzania&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "KU 8886" ; Times: 1
+	Query: "103325" ; Times: 1
+	Query: "zmuc birds" ; Times: 1
+	Query: "KU 140993" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 2
+	Query: "country:&#34;tanzania&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "137586" ; Times: 1
+	Query: "institutioncode:ZMUC" ; Times: 1
+	Query: "recordedby:Thorkild Andersen institutioncode:ZMUC" ; Times: 2
+	Query: "catalognumber:136503" ; Times: 1
+	Query: "Xenoperdix" ; Times: 1
+	Query: "genus:macrosphenus country:&#34;tanzania&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "specificepithet:rufiventris genus:Ardeola" ; Times: 1
+	Query: "specificepithet:idae genus:Ardeola" ; Times: 1
+	Query: "genus:cossypha institutioncode:ZMUC" ; Times: 1
+	Query: "zmuc aves" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "specificepithet:syndactyla genus:bleda" ; Times: 1
+	Query: "recordedby:Thorkild Andersen year &gt;= 1950 year &lt;= 1950 institutioncode:ZMUC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 962 download events in this period)
+Total number of records downloaded: 4193
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Terpsiphone hastissue:1" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "recordedby:Thorkild Andersen institutioncode:ZMUC" ; Times: 1
+	Query: "specificepithet:syndactyla genus:bleda" ; Times: 2
+
+
+End of report.
