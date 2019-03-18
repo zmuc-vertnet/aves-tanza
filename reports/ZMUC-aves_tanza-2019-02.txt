@@ -1,0 +1,86 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 565
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 10
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Denmark ; Times: 7
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: Ireland ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-03 ; Times: 2
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-12 ; Times: 8
+	Date: 2019-02-20 ; Times: 3
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-18 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "KU-105932" ; Times: 2
+	Query: "zmuc aves year &gt; 2000" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "gbifdatasetid:af3bce08-0599-45a6-9bfc-08188bcd868e" ; Times: 1
+	Query: "140993" ; Times: 1
+	Query: "Pternistis squamatus" ; Times: 3
+	Query: "vntype:specimen specificepithet:palustris genus:Acrocephalus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "KU 4864" ; Times: 1
+	Query: "vntype:specimen specificepithet:afer genus:pternistis" ; Times: 1
+	Query: "specificepithet:alleni genus:Porphyrio" ; Times: 1
+	Query: "genus:Monarcha institutioncode:ZMUC" ; Times: 3
+	Query: "zmuc birds" ; Times: 1
+	Query: "142548" ; Times: 1
+	Query: "KU-5929" ; Times: 1
+	Query: "142407" ; Times: 1
+	Query: "KU 105932" ; Times: 1
+	Query: "catalognumber:103328" ; Times: 1
+	Query: "cercotrichas sclateri" ; Times: 1
+	Query: "specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "telacanthura" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucoscepus genus:pternistis" ; Times: 1
+	Query: "Alopochen" ; Times: 1
+	Query: "zmuc aves" ; Times: 2
+	Query: "class:Aves catalognumber:103328" ; Times: 2
+	Query: "vntype:specimen specificepithet:senegalensis genus:Otus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1227 download events in this period)
+Total number of records downloaded: 45
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Israel ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "vntype:specimen specificepithet:afer genus:pternistis" ; Times: 1
+	Query: "specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucoscepus genus:pternistis" ; Times: 1
+
+
+End of report.
