@@ -1,0 +1,66 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 135
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Denmark ; Times: 4
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-22 ; Times: 3
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Euplectes nigroventris" ; Times: 1
+	Query: "apaloderma vittatum" ; Times: 1
+	Query: "140994" ; Times: 1
+	Query: "Schoenicola" ; Times: 1
+	Query: "KU 7888" ; Times: 1
+	Query: "genus:Eupodotis" ; Times: 1
+	Query: "KU 9610" ; Times: 1
+	Query: "genus:Schoenicola" ; Times: 1
+	Query: "apaloderma vittatum year &gt; 1990" ; Times: 2
+	Query: "family:Eurylaimidae hastissue:1" ; Times: 2
+	Query: "KU 140994" ; Times: 2
+	Query: "vntype:specimen specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "cossypha polioptera" ; Times: 1
+	Query: "103378" ; Times: 1
+	Query: "Apaloderma vittatum year &gt;1990" ; Times: 1
+	Query: "KU 140993" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1281 download events in this period)
+Total number of records downloaded: 242
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Eurylaimidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:nectariniidae (alcohol OR alc)" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "vntype:specimen family:Nectariniidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+
+
+End of report.
