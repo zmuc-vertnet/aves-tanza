@@ -1,0 +1,97 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 245
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-03 ; Times: 8
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-23 ; Times: 4
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-26 ; Times: 4
+	Date: 2019-04-01 ; Times: 3
+	Date: 2019-04-02 ; Times: 4
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "135099" ; Times: 1
+	Query: "myrmecocichla collaris" ; Times: 2
+	Query: "glaucidium capense" ; Times: 1
+	Query: "Myrmecocichla nigra" ; Times: 3
+	Query: "udzungwensis" ; Times: 1
+	Query: "ku 5791" ; Times: 2
+	Query: "100969" ; Times: 1
+	Query: "zmuc estrilda" ; Times: 1
+	Query: "ardeola ralloides" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "Sheppardia bocagei" ; Times: 1
+	Query: "Sheppardia bocagei mappable:1" ; Times: 1
+	Query: "ku 8886" ; Times: 2
+	Query: "Cossypha semirufa mappable:1" ; Times: 1
+	Query: "Oenanthe schalowi" ; Times: 2
+	Query: "KU 105932" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "zmuc estrilda astrild" ; Times: 1
+	Query: "Cossypha niveicapilla" ; Times: 1
+	Query: "Hieraaetus ayresii" ; Times: 2
+	Query: "KU 5143" ; Times: 1
+	Query: "cuculus poliocephalus" ; Times: 1
+	Query: "vntype:specimen genus:Buphagus" ; Times: 2
+	Query: "Cossypha niveicapilla mappable:1" ; Times: 1
+	Query: "137546" ; Times: 2
+	Query: "pernis apivorus" ; Times: 1
+	Query: "100319 KU" ; Times: 2
+	Query: "Cossypha semirufa" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "specificepithet:shelleyi genus:scleroptila" ; Times: 1
+	Query: "xenoperdix" ; Times: 1
+	Query: "140271" ; Times: 1
+	Query: "135136" ; Times: 1
+	Query: "103378" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1263 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Hieraaetus ayresii" ; Times: 1
+	Query: "genus:saxicola hastissue:1" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "pitta" ; Times: 1
+
+
+End of report.
