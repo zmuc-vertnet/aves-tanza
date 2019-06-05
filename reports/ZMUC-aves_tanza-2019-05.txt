@@ -1,0 +1,108 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 845
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Denmark ; Times: 13
+	Country: United States ; Times: 24
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-21 ; Times: 8
+	Date: 2019-05-22 ; Times: 13
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 4
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-15 ; Times: 3
+	Date: 2019-05-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:castanea genus:platysteira" ; Times: 2
+	Query: "genus:Sarkidiornis" ; Times: 1
+	Query: "vntype:specimen specificepithet:concreta kungwensis genus:platysteira" ; Times: 2
+	Query: "vntype:specimen specificepithet:soror genus:batis" ; Times: 2
+	Query: "vntype:specimen specificepithet:peltata mentalis genus:platysteira" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:batis" ; Times: 1
+	Query: "vntype:specimen specificepithet:mixta genus:batis" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Turnix basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 1
+	Query: "zmuc aves year &gt; 1987" ; Times: 2
+	Query: "vntype:specimen specificepithet:peltata genus:platysteira hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:concreta genus:platysteira" ; Times: 2
+	Query: "genus:Cryptospiza country:&#34;Tanzania&#34; continent:Africa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "KU 135175" ; Times: 2
+	Query: "Smithornis capensis year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "zmuc apaloderma" ; Times: 1
+	Query: "Apaloderma vittatum year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Phylloscopus trochilus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34; ku" ; Times: 1
+	Query: "specificepithet:mixta genus:batis hastissue:1" ; Times: 2
+	Query: "KU 139195" ; Times: 2
+	Query: "vntype:specimen specificepithet:cyanea genus:platysteira" ; Times: 1
+	Query: "vntype:specimen family:Indicatoridae hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:mixta genus:batis hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "specificepithet:crypta genus:batis hastissue:1" ; Times: 2
+	Query: "Nicator chloris year &gt; 1990 NOT clo NOT &#34;nature kenya&#34; ku" ; Times: 1
+	Query: "Colius striatus year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Smithornis capensis ku year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "zmuc aves" ; Times: 1
+	Query: "Nicator chloris year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Colius striatus year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34; ku" ; Times: 1
+	Query: "specificepithet:angolensis genus:monticola" ; Times: 1
+	Query: "institutioncode:zmuc Psittacidae" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 940 download events in this period)
+Total number of records downloaded: 4724
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 2
+	Country: Malawi ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Turnix basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "zmuc aves year &gt; 1987" ; Times: 1
+	Query: "genus:apalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:porphyrio genus:porphyrio" ; Times: 1
+	Query: "genus:Dicrurus continent:Africa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Cryptospiza country:&#34;Tanzania&#34; continent:Africa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:angolensis genus:monticola" ; Times: 1
+	Query: "vntype:specimen specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "vntype:specimen genus:pitta" ; Times: 1
+
+
+End of report.
