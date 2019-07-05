@@ -1,0 +1,93 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 540
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 35
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 3
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-24 ; Times: 2
+	Date: 2019-06-18 ; Times: 3
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-17 ; Times: 5
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-11 ; Times: 24
+	Date: 2019-06-13 ; Times: 2
+	Date: 2019-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "ACCIPITER BADIUS" ; Times: 1
+	Query: "genus:Cuculus specificepithet:canorus" ; Times: 1
+	Query: "psalidoprocne orientalis" ; Times: 1
+	Query: "genus:Emberiza specificepithet:cabanisi" ; Times: 1
+	Query: "genus:Euplectes specificepithet:hordeaceus" ; Times: 1
+	Query: "genus:Buphagus specificepithet:erythrorhynchus" ; Times: 1
+	Query: "vntype:specimen specificepithet:paludicola genus:riparia" ; Times: 1
+	Query: "genus:Charadrius specificepithet:hiaticula" ; Times: 1
+	Query: "genus:Alcedo specificepithet:cristata" ; Times: 1
+	Query: "genus:Dendropicos specificepithet:goertae" ; Times: 1
+	Query: "ku 101590" ; Times: 1
+	Query: "genus:Pitta specificepithet:angolensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:mixta genus:batis" ; Times: 1
+	Query: "genus:Apaloderma specificepithet:vittatum" ; Times: 1
+	Query: "Gallinula chloropus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "ku 101573" ; Times: 1
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 2
+	Query: "102231" ; Times: 1
+	Query: "Coracias naevius" ; Times: 1
+	Query: "genus:Colius specificepithet:striatus" ; Times: 1
+	Query: "genus:Actitis specificepithet:hypoleucos" ; Times: 1
+	Query: "genus:Estrilda specificepithet:astrild" ; Times: 1
+	Query: "genus:Merops specificepithet:pusillus" ; Times: 1
+	Query: "genus:Halcyon specificepithet:leucocephala" ; Times: 1
+	Query: "catalognumber:101843" ; Times: 1
+	Query: "genus:Falco specificepithet:tinnunculus" ; Times: 1
+	Query: "vntype:specimen specificepithet:mixta genus:batis hastissue:1" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "tchagra tchagra" ; Times: 1
+	Query: "genus:Lonchura specificepithet:cucullata" ; Times: 1
+	Query: "gbifdatasetid:af3bce08-0599-45a6-9bfc-08188bcd868e" ; Times: 2
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 1
+	Query: "genus:Apus specificepithet:affinis" ; Times: 1
+	Query: "vntype:specimen specificepithet:mixta reichenowi genus:batis" ; Times: 1
+	Query: "genus:Caprimulgus specificepithet:europaeus" ; Times: 1
+	Query: "hieraaetus ayresii" ; Times: 2
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 1
+	Query: "genus:Coracias specificepithet:garrulus" ; Times: 1
+	Query: "vntype:specimen genus:Indicator hastissue:1" ; Times: 2
+	Query: "KU 138666" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1182 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Accipiter year &gt;= 1990 hastissue:1" ; Times: 1
+
+
+End of report.
