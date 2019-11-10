@@ -1,0 +1,85 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 488
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Canada ; Times: 14
+	Country: India ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 9
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-25 ; Times: 4
+	Date: 2019-09-04 ; Times: 2
+	Date: 2019-09-27 ; Times: 24
+	Date: 2019-09-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:scotops genus:eremomela" ; Times: 10
+	Query: "genus:salpornis" ; Times: 1
+	Query: "Cossypha polioptera vntype:specimen" ; Times: 1
+	Query: "KU 5294" ; Times: 1
+	Query: "136325" ; Times: 1
+	Query: "salpornis spilonotus" ; Times: 1
+	Query: "136319" ; Times: 1
+	Query: "KU 2800" ; Times: 2
+	Query: "pitta KU" ; Times: 1
+	Query: "specificepithet:scotops genus:eremomela institutioncode:ZMUC" ; Times: 2
+	Query: "KU 2670" ; Times: 2
+	Query: "KU 577" ; Times: 1
+	Query: "KU 2463" ; Times: 2
+	Query: "genus:hirundo class:aves country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Oenanthe lugubris vntype:specimen" ; Times: 1
+	Query: "Pyrenestes minor vntype:specimen" ; Times: 1
+	Query: "KU 1871" ; Times: 2
+	Query: "zmuc mahale" ; Times: 1
+	Query: "Sheppardia gunningi" ; Times: 1
+	Query: "KU 6517" ; Times: 2
+	Query: "eremomela scotops" ; Times: 1
+	Query: "vntype:specimen specificepithet:augur genus:buteo" ; Times: 2
+	Query: "KU 1177" ; Times: 6
+	Query: "KU 1178" ; Times: 1
+	Query: "KU 1179" ; Times: 5
+	Query: "catalognumber:105366" ; Times: 1
+	Query: "ku apaloderma" ; Times: 2
+	Query: "KU 2669" ; Times: 2
+	Query: "genus:ortygospiza class:aves" ; Times: 1
+	Query: "KU 2464" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1073 download events in this period)
+Total number of records downloaded: 23
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Singapore ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "canorus" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+
+
+End of report.
