@@ -1,0 +1,67 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 215
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 11
+	Country: Netherlands ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-06 ; Times: 5
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-14 ; Times: 2
+	Date: 2019-12-02 ; Times: 6
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ku 143105" ; Times: 2
+	Query: "Falco naumanni" ; Times: 3
+	Query: "Centropus grillii" ; Times: 1
+	Query: "specificepithet:capense genus:Glaucidium" ; Times: 1
+	Query: "Centropus+grillii" ; Times: 1
+	Query: "KU 7418" ; Times: 1
+	Query: "ZMUC birds" ; Times: 1
+	Query: "vntype:specimen specificepithet:livingstonii genus:Tauraco" ; Times: 2
+	Query: "Xenoperdix udzungwensis zmuc" ; Times: 1
+	Query: "Xenoperdix obscurata" ; Times: 2
+	Query: "Xenoperdix udzungwensis obscurata" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 2
+	Query: "specificepithet:livingstonii genus:Tauraco" ; Times: 1
+	Query: "ZMUC Sclateri" ; Times: 1
+	Query: "Xenoperdix udzungwensis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 596 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+
+
+End of report.
