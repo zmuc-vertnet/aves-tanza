@@ -1,0 +1,88 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 338
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Denmark ; Times: 8
+	Country: France ; Times: 2
+	Country: United States ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-25 ; Times: 4
+	Date: 2019-11-08 ; Times: 6
+	Date: 2019-11-09 ; Times: 3
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-14 ; Times: 2
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:scotops genus:eremomela" ; Times: 1
+	Query: "vntype:specimen specificepithet:gunningi class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Limosa lapponica KU" ; Times: 1
+	Query: "sheppardia montana" ; Times: 2
+	Query: "genus:myrmecocichla institutioncode:ZMUC" ; Times: 1
+	Query: "genus:sylvia institutioncode:ZMUC" ; Times: 1
+	Query: "specificepithet:scotops genus:eremomela institutioncode:ZMUC" ; Times: 1
+	Query: "Rhinoptilus africanus KU" ; Times: 1
+	Query: "specificepithet:gunningi class:aves" ; Times: 1
+	Query: "catalognumber:101610" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "turdoides mentalis" ; Times: 1
+	Query: "Apaloderma vittatum KU" ; Times: 1
+	Query: "sheppardia bocagei kungwensis" ; Times: 3
+	Query: "sheppardia aurantiithorax" ; Times: 1
+	Query: "genus:macrosphenus" ; Times: 1
+	Query: "specificepithet:ardosiaceus genus:Falco" ; Times: 1
+	Query: "sheppardia kungwensis" ; Times: 1
+	Query: "Anhinga anhinga KU" ; Times: 1
+	Query: "specificepithet:polioptera genus:cossypha basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sheppardia bocagei ilyai" ; Times: 2
+	Query: "genus:buccanodon" ; Times: 1
+	Query: "turdoides emini" ; Times: 1
+	Query: "sheppardia alticola" ; Times: 2
+	Query: "specificepithet:rupicoloides genus:Falco" ; Times: 1
+	Query: "sheppardia ilyai" ; Times: 2
+	Query: "cossypha polioptera" ; Times: 1
+	Query: "sheppardia gunningi alticola" ; Times: 1
+	Query: "Smithornis capensis year &gt;1990" ; Times: 1
+	Query: "Sylvia borin KU" ; Times: 1
+	Query: "genus:Cercococcyx class:aves year &gt;= 1990" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1367 download events in this period)
+Total number of records downloaded: 584
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:macrosphenus" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+
+
+End of report.
