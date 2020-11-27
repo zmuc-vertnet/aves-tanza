@@ -1,0 +1,66 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 419
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 6
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 12
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-27 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves institutioncode:ZMUC" ; Times: 1
+	Query: "macheiramphus alcinus vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "illadopsis fulvescens" ; Times: 2
+	Query: "ku 4740" ; Times: 1
+	Query: "macheiramphus alcinus vntype:specimen year &gt;= 1910 year &lt;= 2020" ; Times: 1
+	Query: "Illadopsis rufipennis" ; Times: 3
+	Query: "KU 100355" ; Times: 3
+	Query: "Macrosphenus kretschmeri" ; Times: 1
+	Query: "Melocichla mentalis" ; Times: 1
+	Query: "KU 7418" ; Times: 1
+	Query: "macheiramphus alcinus vntype:specimen year &lt;= 2020" ; Times: 2
+	Query: "KU 101226" ; Times: 6
+	Query: "Illadopsis pyrrhoptera" ; Times: 2
+	Query: "turdoides mentalis" ; Times: 1
+	Query: "KU 5083" ; Times: 1
+	Query: "order:passeriformes class:aves institutioncode:ZMUC" ; Times: 2
+	Query: "KU 7020" ; Times: 1
+	Query: "riparia paludicola" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1023 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tyto alba" ; Times: 1
+	Query: "riparia paludicola" ; Times: 1
+
+
+End of report.
