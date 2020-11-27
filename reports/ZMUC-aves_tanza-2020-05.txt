@@ -1,0 +1,65 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 23
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Czechia ; Times: 1
+	Country: Ireland ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "141074" ; Times: 1
+	Query: "KU 6676" ; Times: 1
+	Query: "KU 6094 aves" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "KU 815" ; Times: 1
+	Query: "134721" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "102701" ; Times: 1
+	Query: "102703" ; Times: 1
+	Query: "139179" ; Times: 1
+	Query: "6363 ku" ; Times: 2
+	Query: "KU 6676 aves" ; Times: 1
+	Query: "102704" ; Times: 1
+	Query: "Tyto alba affinis" ; Times: 1
+	Query: "138782" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1106 download events in this period)
+Total number of records downloaded: 4183
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Andersen" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+
+
+End of report.
