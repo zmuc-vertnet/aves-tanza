@@ -1,0 +1,134 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 813
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 10
+	Country: Australia ; Times: 13
+	Country: Portugal ; Times: 51
+	Country: United Kingdom ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Canada ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 51
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-14 ; Times: 13
+	Date: 2020-08-04 ; Times: 3
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-26 ; Times: 4
+	Date: 2020-08-19 ; Times: 2
+	Date: 2020-08-21 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Cosmopsarus regius" ; Times: 1
+	Query: "mappable:1 scientificname:Lagonosticta senegala" ; Times: 1
+	Query: "mappable:1 scientificname:Agapornis personatus" ; Times: 1
+	Query: "mappable:1 scientificname:Phoeniculus purpureus" ; Times: 1
+	Query: "mappable:1 scientificname:Tockus deckeni" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura cucullata" ; Times: 1
+	Query: "mappable:1 scientificname:Serinus mozambicus" ; Times: 1
+	Query: "Hirundo smithii" ; Times: 1
+	Query: "mappable:1 scientificname:Estrilda perreini" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura cantans" ; Times: 1
+	Query: "mappable:1 scientificname:Estrilda astrild" ; Times: 1
+	Query: "Colius striatus" ; Times: 1
+	Query: "Hirundo angolensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventris genus:Accipiter" ; Times: 1
+	Query: "136360" ; Times: 1
+	Query: "Accipiter rufiventris" ; Times: 1
+	Query: "mappable:1 scientificname:Ploceus castaneiceps" ; Times: 1
+	Query: "institutioncode:ZMUC 284" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus country:&#34;tanzania&#34;" ; Times: 4
+	Query: "mappable:1 scientificname:Oena capensis" ; Times: 1
+	Query: "Hirundo aethiopica" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes axillaris" ; Times: 1
+	Query: "mappable:1 scientificname:Vidua fischeri" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "mappable:1 scientificname:Vanellus senegallus" ; Times: 1
+	Query: "mappable:1 scientificname:Vidua macroura" ; Times: 1
+	Query: "Hirundo atrocaerulea" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes ardens" ; Times: 1
+	Query: "134336" ; Times: 3
+	Query: "mappable:1 scientificname:Vidua paradisaea" ; Times: 1
+	Query: "mappable:1 scientificname:Ploceus jacksoni" ; Times: 1
+	Query: "mappable:1 scientificname:Agapornis pullarius" ; Times: 1
+	Query: "101565" ; Times: 1
+	Query: "mappable:1 scientificname:Tauraco hartlaubi" ; Times: 1
+	Query: "xenoperdix obscurata" ; Times: 1
+	Query: "mappable:1 scientificname:Ploceus nigerrimus" ; Times: 1
+	Query: "Hirundo albigularis" ; Times: 1
+	Query: "mappable:1 scientificname:Tockus nasutus" ; Times: 1
+	Query: "mappable:1 scientificname:Anas hottentota" ; Times: 1
+	Query: "mappable:1 scientificname:Vidua chalybeata" ; Times: 1
+	Query: "xenoperdix udzungwensis" ; Times: 3
+	Query: "mappable:1 scientificname:Actophilornis africanus" ; Times: 1
+	Query: "mappable:1 scientificname:Pytilia melba" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura nigriceps" ; Times: 1
+	Query: "mappable:1 scientificname:Numida meleagris" ; Times: 1
+	Query: "mappable:1 scientificname:Amandava amandava" ; Times: 1
+	Query: "mappable:1 scientificname:Anas erythrorhyncha" ; Times: 1
+	Query: "mappable:1 scientificname:Uraeginthus bengalus" ; Times: 1
+	Query: "134371" ; Times: 2
+	Query: "mappable:1 scientificname:Ceratogymna brevis" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura bicolor" ; Times: 1
+	Query: "mappable:1 scientificname:Estrilda rhodopyga" ; Times: 1
+	Query: "Motacilla cinerea" ; Times: 1
+	Query: "mappable:1 scientificname:Accipiter badius" ; Times: 1
+	Query: "mappable:1 scientificname:Haliaeetus vocifer" ; Times: 1
+	Query: "mappable:1 scientificname:Anas capensis" ; Times: 1
+	Query: "mappable:1 scientificname:Ploceus intermedius" ; Times: 1
+	Query: "mappable:1 scientificname:Quelea erythrops" ; Times: 1
+	Query: "gbifdatasetid:af3bce08-0599-45a6-9bfc-08188bcd868e" ; Times: 1
+	Query: "mappable:1 scientificname:Amandava subflava" ; Times: 1
+	Query: "mappable:1 scientificname:Ploceus melanocephalus" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "mappable:1 scientificname:Lamprotornis chalybaeus" ; Times: 1
+	Query: "134314" ; Times: 5
+	Query: "Cisticola cantans" ; Times: 1
+	Query: "mappable:1 scientificname:Serinus dorsostriatus" ; Times: 1
+	Query: "ku 138616" ; Times: 1
+	Query: "mappable:1 scientificname:Zosterops senegalensis" ; Times: 1
+	Query: "134326" ; Times: 2
+	Query: "Prinia subflava" ; Times: 1
+	Query: "Passer suahelicus" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes hordeaceus" ; Times: 1
+	Query: "mappable:1 scientificname:Sarkidiornis melanotos" ; Times: 1
+	Query: "mappable:1 scientificname:Bubo africanus" ; Times: 1
+	Query: "Apalis flavida" ; Times: 1
+	Query: "101570" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes nigroventris" ; Times: 1
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "mappable:1 scientificname:Amadina fasciata" ; Times: 1
+	Query: "mappable:1 scientificname:Vanellus armatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 756 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua" ; Times: 1
+
+
+End of report.
