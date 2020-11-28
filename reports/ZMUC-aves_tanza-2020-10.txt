@@ -1,0 +1,87 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 206
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: France ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-22 ; Times: 3
+	Date: 2020-10-20 ; Times: 4
+	Date: 2020-10-27 ; Times: 4
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-13 ; Times: 8
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-02 ; Times: 3
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-06 ; Times: 2
+	Date: 2020-10-28 ; Times: 3
+	Date: 2020-10-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Halcyon albiventris" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 2
+	Query: "Buphagus" ; Times: 1
+	Query: "100552" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus country:&#34;tanzania&#34;" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Macheiramphus" ; Times: 1
+	Query: "order:passeriformes year &gt;= 1948 year &lt;= 1948 month &gt;= 4 month &lt;= 5 institutioncode:ZMUC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "100590" ; Times: 2
+	Query: "Trachyphonus vaillantii" ; Times: 1
+	Query: "order:passeriformes year &gt;= 1947 year &lt;= 1948 month &gt;= 4 month &lt;= 5 institutioncode:ZMUC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ZMUC aves-136204" ; Times: 2
+	Query: "ZMUC 136204" ; Times: 1
+	Query: "KU 136589" ; Times: 1
+	Query: "ZMUC 136202" ; Times: 1
+	Query: "telacanthura" ; Times: 2
+	Query: "scientificname:Accipiter nisus" ; Times: 4
+	Query: "Porphyrio alleni" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Egretta garzetta haslifestage:1" ; Times: 1
+	Query: "103517" ; Times: 1
+	Query: "Porphyrio porphyrio" ; Times: 1
+	Query: "Ruaha River" ; Times: 1
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "Telophorus sulfureopectus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1521 download events in this period)
+Total number of records downloaded: 606
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 4
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen order:Bucerotiformes" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "vntype:specimen family:Lybiidae" ; Times: 1
+	Query: "genus:myrmecocichla" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+
+
+End of report.
