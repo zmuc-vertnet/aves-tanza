@@ -1,0 +1,81 @@
+Report for Institution Code ZMUC, Resource aves_tanza
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 370
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United Kingdom ; Times: 17
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 1
+	Country: United States ; Times: 6
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-20 ; Times: 8
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 5
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-04 ; Times: 5
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Dendrocygna viduata" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "ku madaraszi" ; Times: 1
+	Query: "Apus caffer" ; Times: 1
+	Query: "100576" ; Times: 1
+	Query: "Apalis flavida" ; Times: 1
+	Query: "KU 4900" ; Times: 1
+	Query: "Eminia lepida" ; Times: 1
+	Query: "Falco fasciinucha" ; Times: 4
+	Query: "mappable:1 scientificname:Netta erythrophthalma" ; Times: 1
+	Query: "Delichon urbica" ; Times: 2
+	Query: "Clamator glandarius" ; Times: 1
+	Query: "aves glareola pratincola" ; Times: 1
+	Query: "caprimulgus inornatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lamelligerus genus:anastomus" ; Times: 1
+	Query: "Anthreptes orientalis" ; Times: 1
+	Query: "gbifdatasetid:af3bce08-0599-45a6-9bfc-08188bcd868e" ; Times: 2
+	Query: "Apus affinis" ; Times: 1
+	Query: "Porphyrio alleni" ; Times: 1
+	Query: "135395" ; Times: 1
+	Query: "Cisticola cantans" ; Times: 1
+	Query: "mappable:1 scientificname:Bubulcus ibis" ; Times: 2
+	Query: "Prinia subflava" ; Times: 1
+	Query: "stactolaema rungweensis" ; Times: 1
+	Query: "mappable:1 scientificname:Anhinga anhinga" ; Times: 4
+	Query: "Apus barbatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 705 download events in this period)
+Total number of records downloaded: 46
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:anatidae" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+
+
+End of report.
